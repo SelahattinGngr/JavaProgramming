@@ -12,6 +12,6 @@ public class helloworld // buradaki isim dosya adidir
         System.out.print("Merhaba Java3");
                 // println stringi yazdirir alt satira iner print sadece stringi yazdirir
     }
-        /* System.out.print harflerinden biri olmasi gerekenden farkli olursa
+        /* system.out.print harflerinden biri olmasi gerekenden farkli olursa (System seklinde yazilmaliydi)
            hata veriyor (denendi onaylandi) */
 }
